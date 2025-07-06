@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/salesforce-dev-portfolio/static/css/main.2ab44dff.css",
+    "main.js": "/salesforce-dev-portfolio/static/js/main.971c9977.js",
+    "index.html": "/salesforce-dev-portfolio/index.html",
+    "main.2ab44dff.css.map": "/salesforce-dev-portfolio/static/css/main.2ab44dff.css.map",
+    "main.971c9977.js.map": "/salesforce-dev-portfolio/static/js/main.971c9977.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ab44dff.css",
+    "static/js/main.971c9977.js"
+  ]
+}
